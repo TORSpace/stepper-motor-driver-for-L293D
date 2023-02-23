@@ -1,1 +1,1 @@
-# stepper-motor-driver-for-L293D
+# stepper motor driver for L293D
