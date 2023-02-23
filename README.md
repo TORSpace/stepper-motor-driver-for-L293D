@@ -1,4 +1,9 @@
+
 Here is a short pin layout explanation. Look for Raspberry Pi and L293D pinout online.
+Be carefull with the L293D chip it overheats qiute fast you may need a active colling
+or some heat sinks. 
+
+
 
 
 ```
