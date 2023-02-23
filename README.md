@@ -25,7 +25,7 @@ Pin 5  GPIO 3  black    Input 1
 Pin 7  GPIO 4  blue     Input 2
 Pin 13 GPIO 27 green    Input 3
 Pin 15 GPIO 22 red      Input 4   
-			Ground             	 "- pole/ground"
+			Ground             	"- pole/ground"
 			Vcc 2 (Vs)          	"+ pole/ + 5v "
 			Output 1 	 				A+ black
 			Output 2					A- blue
