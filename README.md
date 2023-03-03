@@ -1,8 +1,8 @@
-We are proud to anounce that we have developed a simple type of driver software.
+We are proud to announce that we have developed a simple type of driver software.
 It's  easy to use just open the file in your coding program like Thonny and press run. 
-Now you should be able to enter the amount of stepps for the motor. 
+Now you should be able to enter the amount of steps for the motor. 
 Down you find the correct wiring to use the program with your Raspberry Pi.
-The current of the power source can variate so be shure that the motor have anouth power to operate.
+The current of the power source can variate so be sure that the motor have anouth power to operate.
 
 
 
