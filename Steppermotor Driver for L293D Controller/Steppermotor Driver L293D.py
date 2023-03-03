@@ -7,7 +7,7 @@ coil_A_1_pin = 3  # black
 coil_A_2_pin = 4  # blue
 coil_B_1_pin = 27 # green
 coil_B_2_pin = 22 # red
-enable_pin   = 2  # may be needet 
+enable_pin   = 2  # maybe needed 
  
                                     # may change for other motors
 StepCount = 4
