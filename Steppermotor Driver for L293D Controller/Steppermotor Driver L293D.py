@@ -47,8 +47,8 @@ def backwards(delay, steps):
 if __name__ == '__main__':
     while True:
         #delay = raw_input("time delay (ms)?")
-        delay = 30    # fixed delay delet and enable line 49 to unse variable delay
-        steps = input("How many stepps? ")
+        delay = 30    # fixed delay delete and enable line 49 to use variable delay
+        steps = input("How many steps? ")
         forward(float(delay) / 1000.0, int(steps))
-        steps = input("How many backward stepps? ")
+        steps = input("How many backward steps? ")
         backwards(float(delay) / 1000.0, int(steps))
