@@ -35,4 +35,4 @@ Pin 15 GPIO 22 red      Input 4
 
 ## Feedback
 
-If you have any feedback, please reach out to us at management@torspace.de
+If you have any feedback, please reach out to us at management@torspace.net
