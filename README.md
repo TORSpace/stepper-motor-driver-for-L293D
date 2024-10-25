@@ -1,8 +1,9 @@
-We are proud to announce that we have developed a simple type of driver software.
+We have developed a simple driver software for L293D chip in combination whith R-Pi. It
+should be compatible with most 4 channel stepper motors.
 It's  easy to use just open the file in your coding program like Thonny and press run. 
 Now you should be able to enter the amount of steps for the motor. 
 At the bottom you find the correct wiring to use the program with your Raspberry Pi.
-The current of the power source can vary so be sure that the motor have enough power to operate.
+The current of the power source can vary so be sure that the motor has enough power to operate.
 
 
 
@@ -10,8 +11,8 @@ The current of the power source can vary so be sure that the motor have enough p
 
 
 Here is a short pin layout explanation. Look for Raspberry Pi and L293D pinout online.
-Be carefull with the L293D chip it overheats qiute fast you may need a active colling
-or some heat sinks. 
+Be carefull with the L293D chip it overheats quite fast you may need a active colling
+or some heatsinks. 
 
 
 
